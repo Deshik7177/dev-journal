@@ -1,0 +1,57 @@
+name: Dev Journal
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Journal
+        run: |
+
+          git config --global user.name "Deshik7177"
+          git config --global user.email "pdhanadeshik7177@gmail.com"
+
+          CHANCE=$((RANDOM % 100))
+
+          # 70% skip
+          if [ $CHANCE -lt 70 ]; then
+            echo "Skipping"
+            exit 0
+          fi
+
+          FILES=(
+            "learning-log.md"
+            "project-ideas.md"
+            "tech-notes.md"
+            "monthly-progress.md"
+          )
+
+          NOTES=(
+            "Explored FastAPI optimization"
+            "Investigated ESP32 communication"
+            "Reviewed deployment workflow"
+            "Researched YOLO improvements"
+            "Studied robotics control systems"
+            "Improved API architecture notes"
+            "Worked on database design concepts"
+          )
+
+          FILE=${FILES[$RANDOM % ${#FILES[@]}]}
+          NOTE=${NOTES[$RANDOM % ${#NOTES[@]}]}
+
+          echo "- $(date): $NOTE" >> $FILE
+
+          git add .
+          git commit -m "docs: update journal" || exit 0
+
+          git push

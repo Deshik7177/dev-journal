@@ -1,21 +1,22 @@
-name: Dev Journal
+name: Dev Journal Activity
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update:
+  journal:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Update Journal
+      - name: Generate Activity
         run: |
 
           git config --global user.name "Deshik7177"
@@ -23,9 +24,9 @@ jobs:
 
           CHANCE=$((RANDOM % 100))
 
-          # 70% skip
-          if [ $CHANCE -lt 70 ]; then
-            echo "Skipping"
+          # 30% chance skip
+          if [ $CHANCE -lt 30 ]; then
+            echo "No activity generated."
             exit 0
           fi
 
@@ -37,21 +38,40 @@ jobs:
           )
 
           NOTES=(
-            "Explored FastAPI optimization"
-            "Investigated ESP32 communication"
-            "Reviewed deployment workflow"
-            "Researched YOLO improvements"
-            "Studied robotics control systems"
-            "Improved API architecture notes"
-            "Worked on database design concepts"
+            "Reviewed FastAPI architecture"
+            "Studied ESP32 communication protocols"
+            "Explored ROS2 concepts"
+            "Researched YOLO model optimization"
+            "Documented deployment workflow"
+            "Updated robotics research notes"
+            "Investigated database indexing"
+            "Analyzed SDN routing strategies"
+            "Learned Docker networking concepts"
+            "Explored AWS deployment methods"
+            "Documented machine learning findings"
+            "Updated project roadmap"
+          )
+
+          MESSAGES=(
+            "docs: update development notes"
+            "docs: add research findings"
+            "chore: update engineering journal"
+            "docs: revise learning log"
+            "docs: update progress tracker"
+            "chore: maintain project notes"
+            "docs: add technical observations"
           )
 
           FILE=${FILES[$RANDOM % ${#FILES[@]}]}
           NOTE=${NOTES[$RANDOM % ${#NOTES[@]}]}
+          MESSAGE=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
 
-          echo "- $(date): $NOTE" >> $FILE
+          echo "- $(date '+%Y-%m-%d %H:%M:%S'): $NOTE" >> "$FILE"
 
           git add .
-          git commit -m "docs: update journal" || exit 0
 
-          git push
+          git commit -m "$MESSAGE" || exit 0
+
+          git pull origin main --rebase
+
+          git push origin main

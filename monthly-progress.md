@@ -2,3 +2,4 @@
 - 2026-06-27 10:11:45: Explored AWS deployment methods
 - 2026-06-27 13:48:22: Studied ESP32 communication protocols
 - 2026-06-27 17:13:10: Learned Docker networking concepts
+- 2026-06-27 21:07:09: Investigated database indexing

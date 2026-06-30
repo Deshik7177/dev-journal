@@ -6,3 +6,4 @@
 - 2026-06-26 17:51:04: Updated robotics research notes
 - 2026-06-28 17:16:00: Learned Docker networking concepts
 - 2026-06-29 12:37:25: Explored ROS2 concepts
+- 2026-06-30 14:24:35: Studied ESP32 communication protocols

@@ -23,3 +23,4 @@
 - 2026-07-08 14:19:22: Documented deployment workflow
 - 2026-07-09 17:58:24: Documented deployment workflow
 - 2026-07-10 03:34:42: Investigated database indexing
+- 2026-07-10 14:32:25: Learned Docker networking concepts

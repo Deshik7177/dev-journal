@@ -8,3 +8,4 @@
 - 2026-07-07 03:39:32: Explored AWS deployment methods
 - 2026-07-07 14:41:16: Updated project roadmap
 - 2026-07-07 18:02:28: Researched YOLO model optimization
+- 2026-07-12 09:52:54: Explored AWS deployment methods

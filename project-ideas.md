@@ -24,3 +24,4 @@
 - 2026-07-16 06:21:21: Learned Docker networking concepts
 - 2026-07-17 02:49:41: Explored AWS deployment methods
 - 2026-07-17 06:19:20: Updated robotics research notes
+- 2026-07-18 20:53:03: Documented deployment workflow

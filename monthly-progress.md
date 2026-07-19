@@ -30,3 +30,4 @@
 - 2026-07-18 13:20:37: Updated project roadmap
 - 2026-07-18 16:59:43: Studied ESP32 communication protocols
 - 2026-07-19 13:22:06: Studied ESP32 communication protocols
+- 2026-07-19 17:00:20: Documented deployment workflow

@@ -41,3 +41,4 @@
 - 2026-07-24 06:27:50: Researched YOLO model optimization
 - 2026-07-26 13:27:32: Updated project roadmap
 - 2026-07-27 11:26:20: Documented machine learning findings
+- 2026-07-28 10:37:28: Explored AWS deployment methods

@@ -44,3 +44,4 @@
 - 2026-07-28 10:37:28: Explored AWS deployment methods
 - 2026-07-29 06:33:17: Explored ROS2 concepts
 - 2026-07-30 10:26:51: Reviewed FastAPI architecture
+- 2026-07-30 21:12:39: Learned Docker networking concepts

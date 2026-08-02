@@ -50,3 +50,4 @@
 - 2026-08-01 10:01:22: Updated robotics research notes
 - 2026-08-01 20:55:45: Reviewed FastAPI architecture
 - 2026-08-02 06:34:56: Learned Docker networking concepts
+- 2026-08-02 13:26:12: Documented deployment workflow

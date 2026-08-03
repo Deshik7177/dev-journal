@@ -51,3 +51,4 @@
 - 2026-08-01 20:55:45: Reviewed FastAPI architecture
 - 2026-08-02 06:34:56: Learned Docker networking concepts
 - 2026-08-02 13:26:12: Documented deployment workflow
+- 2026-08-03 07:30:21: Studied ESP32 communication protocols

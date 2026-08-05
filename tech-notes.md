@@ -50,3 +50,4 @@
 - 2026-08-03 03:16:03: Learned Docker networking concepts
 - 2026-08-03 11:26:42: Documented deployment workflow
 - 2026-08-04 14:20:31: Updated project roadmap
+- 2026-08-05 14:12:59: Studied ESP32 communication protocols

@@ -52,3 +52,4 @@
 - 2026-08-04 14:20:31: Updated project roadmap
 - 2026-08-05 14:12:59: Studied ESP32 communication protocols
 - 2026-08-06 10:41:30: Learned Docker networking concepts
+- 2026-08-07 09:01:38: Analyzed SDN routing strategies

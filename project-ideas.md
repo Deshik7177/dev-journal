@@ -44,3 +44,4 @@
 - 2026-08-04 10:41:53: Reviewed FastAPI architecture
 - 2026-08-04 17:50:29: Investigated database indexing
 - 2026-08-05 21:12:22: Explored AWS deployment methods
+- 2026-08-08 12:52:30: Studied ESP32 communication protocols

@@ -30,3 +30,4 @@
 - 2026-08-07 00:53:06: Documented machine learning findings
 - 2026-08-07 20:42:42: Explored ROS2 concepts
 - 2026-08-08 01:47:48: Investigated database indexing
+- 2026-08-08 08:43:55: Explored AWS deployment methods

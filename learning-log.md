@@ -32,3 +32,4 @@
 - 2026-08-08 01:47:48: Investigated database indexing
 - 2026-08-08 08:43:55: Explored AWS deployment methods
 - 2026-08-08 20:32:19: Explored AWS deployment methods
+- 2026-08-09 16:37:17: Studied ESP32 communication protocols

@@ -60,3 +60,4 @@
 - 2026-08-12 13:14:26: Explored AWS deployment methods
 - 2026-08-14 05:38:54: Learned Docker networking concepts
 - 2026-08-16 16:27:35: Learned Docker networking concepts
+- 2026-08-17 12:47:45: Explored AWS deployment methods

@@ -68,3 +68,4 @@
 - 2026-08-23 12:43:09: Documented deployment workflow
 - 2026-08-24 04:47:42: Updated robotics research notes
 - 2026-08-24 16:39:53: Reviewed FastAPI architecture
+- 2026-08-26 01:25:10: Explored AWS deployment methods

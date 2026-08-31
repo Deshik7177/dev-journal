@@ -71,3 +71,4 @@
 - 2026-08-26 01:25:10: Explored AWS deployment methods
 - 2026-08-27 08:11:05: Explored ROS2 concepts
 - 2026-08-31 15:57:18: Explored ROS2 concepts
+- 2026-08-31 21:25:08: Researched YOLO model optimization

@@ -89,3 +89,4 @@
 - 2026-09-05 21:57:59: Explored ROS2 concepts
 - 2026-09-06 03:34:00: Learned Docker networking concepts
 - 2026-09-06 18:06:16: Documented deployment workflow
+- 2026-09-07 22:37:03: Studied ESP32 communication protocols

@@ -73,3 +73,4 @@
 - 2026-08-31 04:26:46: Learned Docker networking concepts
 - 2026-09-05 08:09:51: Explored AWS deployment methods
 - 2026-09-06 08:27:01: Explored ROS2 concepts
+- 2026-09-07 17:30:22: Documented deployment workflow

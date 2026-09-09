@@ -91,3 +91,4 @@
 - 2026-09-06 18:06:16: Documented deployment workflow
 - 2026-09-07 22:37:03: Studied ESP32 communication protocols
 - 2026-09-08 03:38:49: Documented machine learning findings
+- 2026-09-09 22:20:24: Explored AWS deployment methods

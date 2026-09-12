@@ -81,3 +81,4 @@
 - 2026-09-10 22:19:45: Analyzed SDN routing strategies
 - 2026-09-11 16:05:02: Explored ROS2 concepts
 - 2026-09-11 22:19:29: Analyzed SDN routing strategies
+- 2026-09-12 08:28:19: Documented deployment workflow

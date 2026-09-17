@@ -96,3 +96,4 @@
 - 2026-09-13 15:48:34: Updated robotics research notes
 - 2026-09-15 22:46:29: Reviewed FastAPI architecture
 - 2026-09-17 04:01:01: Explored ROS2 concepts
+- 2026-09-17 19:35:45: Studied ESP32 communication protocols

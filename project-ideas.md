@@ -112,3 +112,4 @@
 - 2026-10-11 19:59:57: Documented deployment workflow
 - 2026-10-12 17:30:31: Investigated database indexing
 - 2026-10-13 01:52:52: Investigated database indexing
+- 2026-10-13 19:01:13: Explored AWS deployment methods

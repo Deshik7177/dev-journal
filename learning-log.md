@@ -67,3 +67,4 @@
 - 2026-10-07 15:17:24: Learned Docker networking concepts
 - 2026-10-10 19:52:25: Updated project roadmap
 - 2026-10-14 13:25:04: Updated robotics research notes
+- 2026-10-16 08:49:40: Documented deployment workflow

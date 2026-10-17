@@ -115,3 +115,4 @@
 - 2026-10-13 19:01:13: Explored AWS deployment methods
 - 2026-10-15 16:32:05: Reviewed FastAPI architecture
 - 2026-10-17 03:30:56: Studied ESP32 communication protocols
+- 2026-10-17 18:15:59: Updated project roadmap

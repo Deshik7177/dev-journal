@@ -120,3 +120,4 @@
 - 2026-10-16 16:17:03: Explored AWS deployment methods
 - 2026-10-17 08:23:06: Explored AWS deployment methods
 - 2026-10-18 03:38:12: Explored AWS deployment methods
+- 2026-10-20 09:20:48: Explored ROS2 concepts

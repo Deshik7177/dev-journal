@@ -123,3 +123,4 @@
 - 2026-10-20 09:20:48: Explored ROS2 concepts
 - 2026-10-22 03:48:32: Investigated database indexing
 - 2026-10-22 16:49:34: Updated project roadmap
+- 2026-10-23 09:10:28: Explored AWS deployment methods

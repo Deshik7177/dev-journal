@@ -121,3 +121,4 @@
 - 2026-10-21 16:49:23: Documented deployment workflow
 - 2026-10-21 23:03:22: Documented deployment workflow
 - 2026-10-22 23:01:53: Documented deployment workflow
+- 2026-10-24 03:47:17: Learned Docker networking concepts

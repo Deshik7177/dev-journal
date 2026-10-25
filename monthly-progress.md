@@ -125,3 +125,4 @@
 - 2026-10-22 16:49:34: Updated project roadmap
 - 2026-10-23 09:10:28: Explored AWS deployment methods
 - 2026-10-24 15:34:51: Updated robotics research notes
+- 2026-10-25 22:21:36: Studied ESP32 communication protocols

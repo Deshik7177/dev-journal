@@ -125,3 +125,4 @@
 - 2026-10-25 15:45:00: Documented deployment workflow
 - 2026-10-27 14:07:47: Documented deployment workflow
 - 2026-10-29 15:00:22: Analyzed SDN routing strategies
+- 2026-10-29 20:55:43: Explored AWS deployment methods

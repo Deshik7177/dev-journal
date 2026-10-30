@@ -83,3 +83,4 @@
 - 2026-10-27 20:29:16: Updated project roadmap
 - 2026-10-28 14:55:33: Documented machine learning findings
 - 2026-10-30 14:53:55: Reviewed FastAPI architecture
+- 2026-10-30 20:30:31: Documented deployment workflow

@@ -109,3 +109,4 @@
 - 2026-10-31 23:09:29: Studied ESP32 communication protocols
 - 2026-11-02 04:59:51: Learned Docker networking concepts
 - 2026-11-05 19:50:18: Explored AWS deployment methods
+- 2026-11-06 11:54:24: Learned Docker networking concepts

@@ -129,3 +129,4 @@
 - 2026-10-30 04:53:36: Documented deployment workflow
 - 2026-10-31 04:39:32: Updated project roadmap
 - 2026-11-01 04:59:08: Explored ROS2 concepts
+- 2026-11-06 19:01:33: Studied ESP32 communication protocols

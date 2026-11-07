@@ -86,3 +86,4 @@
 - 2026-10-30 20:30:31: Documented deployment workflow
 - 2026-11-02 17:57:50: Studied ESP32 communication protocols
 - 2026-11-06 00:52:07: Researched YOLO model optimization
+- 2026-11-07 05:46:35: Learned Docker networking concepts

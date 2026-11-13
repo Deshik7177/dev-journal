@@ -91,3 +91,4 @@
 - 2026-11-09 05:15:10: Reviewed FastAPI architecture
 - 2026-11-09 18:29:14: Learned Docker networking concepts
 - 2026-11-10 12:17:40: Studied ESP32 communication protocols
+- 2026-11-13 11:57:06: Learned Docker networking concepts

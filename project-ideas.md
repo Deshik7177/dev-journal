@@ -141,3 +141,4 @@
 - 2026-11-16 18:04:52: Explored ROS2 concepts
 - 2026-11-17 02:48:52: Documented machine learning findings
 - 2026-11-18 17:00:02: Explored ROS2 concepts
+- 2026-11-19 22:56:15: Explored AWS deployment methods
